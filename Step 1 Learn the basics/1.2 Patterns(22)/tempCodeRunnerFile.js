@@ -1,4 +1,1 @@
-  // for(let i = 0;i<n;i++){
-    //   
-    //     console.log();
-    // }
+    // if(i>n) spaces= 2*n -i;
